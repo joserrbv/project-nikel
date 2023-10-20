@@ -18,6 +18,10 @@ Tela Principal do App que contém o Saldo e os Lançamentos
 
 ---
 
+## Colaboradores
+
+- @Josequeiroz, https://github.com/joserrbv
+ 
 ## Acesso a demontração
 
 [nikel.zenatechsolucoes.com.br](https://nikel.zenatechsolucoes.com.br/)
